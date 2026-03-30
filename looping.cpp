@@ -36,7 +36,8 @@ int main() {
     cout<<"Bilangan acak do-while yang terakhir ="<<x <<endl;
     cout<<endl;
 }
-
+#include <iostream>
+using namespace std;
 int main(){
     float nilB,nilM,rerata;
     string status;
@@ -53,7 +54,8 @@ int main(){
 
     cout<<"Status kelulusan = "<<status<<" ,dengan nilai rata-rata = "<<rerata<<endl;
 }
-
+include <iostream>
+using namespace std;
 int main(){
     float nilB,nilM,rerata;
     string status;
@@ -72,7 +74,8 @@ int main(){
     cout<<"Status kelulusan = "<<status<<" ,dengan nilai rata-rata = "<<rerata<<endl;
 }
 
-
+#include <iostream>
+using namespace std;
 int main(){
     float nilB,nilM,rerata;
     string status;
