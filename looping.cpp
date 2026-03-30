@@ -36,3 +36,7 @@ int main() {
     cout<<"Bilangan acak do-while yang terakhir ="<<x <<endl;
     cout<<endl;
 }
+
+int main(){
+    float nilB,nilM,rerata;
+    string status;
